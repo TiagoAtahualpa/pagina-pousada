@@ -144,6 +144,7 @@ font-size: 20px;
 
 .secao-acomodacoes a{
     color: rgb(169, 71, 35);
+    font-weight: bold;
 }
 
 
@@ -177,6 +178,7 @@ font-size: 20px;
 
 .secao-contato span{
     color: #e2e05e;
+    font-weight: bold;
 }
 
 .secao-contato ul{
@@ -196,4 +198,7 @@ font-size: 20px;
     list-style: none;
     line-height: 30px;
     background-color: white;
-    border-radius:
+    border-radius: 5px;
+}
+
+
