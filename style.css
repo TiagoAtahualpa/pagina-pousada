@@ -139,6 +139,7 @@ font-size: 20px;
 
 .secao-acomodacoes span{
     color: rgb(169, 71, 35);
+    font-weight: bold;
 }
 
 .secao-acomodacoes a{
@@ -195,7 +196,4 @@ font-size: 20px;
     list-style: none;
     line-height: 30px;
     background-color: white;
-    border-radius: 5px;
-}
-
-
+    border-radius:
